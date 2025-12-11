@@ -1,0 +1,12 @@
+{
+  "name": "tids-movie-worker",
+  "version": "1.0.0",
+  "description": "Named Pipe worker for movie processing",
+  "main": "movie-worker.js",
+  "scripts": {
+    "start": "node movie-worker.js"
+  },
+  "keywords": ["named-pipes", "ipc"],
+  "author": "",
+  "license": "ISC"
+}

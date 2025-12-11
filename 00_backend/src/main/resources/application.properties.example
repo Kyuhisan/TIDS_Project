@@ -1,0 +1,5 @@
+spring.application.name=TIDS_Project
+
+# Get your API key from: https://aistudio.google.com/app/apikey
+gemini.api.key=YOUR_API_KEY_HERE
+gemini.model=gemini-flash-latest
